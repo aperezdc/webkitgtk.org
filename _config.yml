@@ -8,5 +8,5 @@ exclude: ["README.md", "scripts", "releases", "planet", "reference", "cvedata"]
 
 markdown: kramdown
 
-stable-release-version: 2.46.3
-unstable-release-version: 2.47.1
+stable-release-version: 2.50.4
+unstable-release-version: 2.51.4

@@ -41,7 +41,7 @@ all over the world.
 
 - [WebKit](https://webkitgtk.org/reference/webkitgtk/stable)
 - [WebKitWebProcessExtension](https://webkitgtk.org/reference/webkitgtk-web-process-extension/stable)
-- [JavascriptCore](https://webkitgtk.org/reference/jsc-glib/stable)
+- [JavaScriptCore](https://webkitgtk.org/reference/jsc-glib/stable)
 
 ## More Info
 
